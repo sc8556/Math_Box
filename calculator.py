@@ -15,3 +15,6 @@ def div(a,b):
 
 def square(b):
     return b**2
+
+def hello():
+    print("Welcome to Math Tool! - for free")
