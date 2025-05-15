@@ -10,3 +10,6 @@ def mul(a,b):
 
 def div(a,b):
     return a/b
+
+def hello():
+    print("Welcome to Math Tool! - for free")
