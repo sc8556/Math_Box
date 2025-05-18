@@ -18,3 +18,6 @@ def square(b):
 
 def hello():
     print("Welcome to Math Tool! - for free")
+
+def say_hello():
+    print("hello")
