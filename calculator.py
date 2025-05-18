@@ -12,12 +12,3 @@ def mul(a,b):
 
 def div(a,b):
     return a/b
-
-def square(b):
-    return b**2
-
-def hello():
-    print("Welcome to Math Tool! - for free")
-
-def say_hello():
-    print("hello")
