@@ -12,3 +12,6 @@ def mul(a,b):
 
 def div(a,b):
     return a/b
+
+def square(a):
+    return a**2
